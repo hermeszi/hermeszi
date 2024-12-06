@@ -2,12 +2,6 @@ Hello World! 👋
 
 About Me
 
-I'm an ADHD person who is bored at work every day as an education researcher based in Singapore.
-
-I teach youth coding and do curriculum development on weekends (mostly Scratch and Python).
-
-I also act as a simulated patient in a medical school.
-
 Currently spending a lot of time studying Computer Science at 42 Singapore (SUTD).
 
 💻 Projects
