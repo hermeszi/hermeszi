@@ -2,7 +2,7 @@ Hello World! 👋
 
 About Me
 
-Currently spending a lot of time studying Computer Science (or whatever it is) at 42 Singapore (SUTD).
+Currently spending a lot of time studying Software Engineering (or whatever it is) at 42 Singapore (SUTD).
 
 💻 Projects
 - mini Ray Tracing (done)
