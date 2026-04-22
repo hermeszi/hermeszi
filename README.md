@@ -1,10 +1,10 @@
-Hello World! 👋
-
-About Me
+Generally cooperative, but tries easily. May need encouragement.
 
 Currently spending a lot of time studying Software Engineering (or whatever it is) at 42 Singapore (SUTD).
 
 💻 Projects
+- ford-johnson (merge-insertion) sort
+- mini_IRC server (bugs)
 - mini Ray Tracing (done)
 - Bash Simulator (done)
 
