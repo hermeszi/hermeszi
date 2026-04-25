@@ -1,5 +1,3 @@
-Generally cooperative, but tries easily. May need encouragement.
-
 💻 Projects
 - ford-johnson (merge-insertion) sort
 - mini_IRC server (bugs)
