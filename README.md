@@ -1,4 +1,5 @@
 💻 Projects
+- Full-stack Gomoku (submitted)
 - ford-johnson (merge-insertion) sort
 - mini_IRC server (bugs)
 - mini Ray Tracing (done)
